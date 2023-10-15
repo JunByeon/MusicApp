@@ -1,4 +1,4 @@
 # MusicApp
 
 
-Music App Project By Andrioid Studio in Kotlin
+Music App Project By Andrioid Studio Kotlin
